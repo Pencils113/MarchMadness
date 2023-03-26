@@ -12,5 +12,7 @@ Notebooks for 2023 Kaggle Men's / Women's March Madness Machine Learning Mania
   * Outputs relevant metrics for current (or testing) season's model
 * parseSubmission.ipynb
   * Defines several functions for exploring model output
+* BrierTest.ipynb
+  * Tests models and computes Brier Test with Kaggle given result dataset
 
 [Competition link](https://www.kaggle.com/competitions/march-machine-learning-mania-2023/overview)
